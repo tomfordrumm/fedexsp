@@ -67,7 +67,7 @@
         <carriers>
             <sc_fedexsp>
                 <active>1</active>
-                <model>sc_fedexsp/carrier_fedexsp</model>
+                <model>SnowCommerce_FedexSP_Model_Carrier_FedexSP</model>
                 <title>Fedex SP</title>
                 <name>Fedex SP</name>
                 <price>5.00</price>

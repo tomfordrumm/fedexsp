@@ -6,7 +6,7 @@
  * Time: 1:00
  * To change this template use File | Settings | File Templates.
  */
-class SnowCommerce_FedexSP_IndexController extends Mage_Core_Controller_Front_Action{
+class SnowCommerce_FedexSP_IndexController extends Mage_Adminhtml_Controller_Action{
 
     public function indexAction(){
         die('motherfucker!!');
