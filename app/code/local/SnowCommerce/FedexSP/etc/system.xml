@@ -3,7 +3,7 @@
     <sections>
         <carriers>
             <groups>
-                <sc_fedexsp translate="label" module="sc_fedexsp">
+                <FEDEX_ABOL translate="label" module="sc_fedexsp">
                     <label>FedEx SmartPost</label>
                     <frontend_type>text</frontend_type>
                     <sort_order>100000</sort_order>
@@ -73,7 +73,7 @@
                             <can_be_empty>1</can_be_empty>
                         </specificcountry>
                     </fields>
-                </sc_fedexsp>
+                </FEDEX_ABOL>
             </groups>
         </carriers>
     </sections>

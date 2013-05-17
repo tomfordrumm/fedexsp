@@ -65,14 +65,14 @@
     </global>
     <default>
         <carriers>
-            <sc_fedexsp>
+            <FEDEX_ABOL>
                 <active>1</active>
                 <model>SnowCommerce_FedexSP_Model_Carrier_FedexSP</model>
                 <title>Fedex SP</title>
                 <name>Fedex SP</name>
                 <price>5.00</price>
                 <specificerrmsg>This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us.</specificerrmsg>
-            </sc_fedexsp>
+            </FEDEX_ABOL>
         </carriers>
     </default>
 </config>
